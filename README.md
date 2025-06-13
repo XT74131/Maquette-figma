@@ -1,4 +1,4 @@
-# Maquette Figma NB
+# Maquette Figma 
 
 ## Description
 Ce projet contient la maquette de l’interface réalisée sur Figma.  
